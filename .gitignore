@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#folders to ignore
+build
+exe
+simdata
+
+#sbatch generated files
+*.o*
